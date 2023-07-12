@@ -1,0 +1,15 @@
+C:\Users\Kar0229\Downloads\iPhone resell system DB\iPhone resell system DB\iPhone resell system DB\obj\Debug\iPhone resell system DB.csproj.AssemblyReference.cache
+C:\Users\Kar0229\Downloads\iPhone resell system DB\iPhone resell system DB\iPhone resell system DB\bin\Debug\iPhone resell system DB.exe.config
+C:\Users\Kar0229\Downloads\iPhone resell system DB\iPhone resell system DB\iPhone resell system DB\bin\Debug\iPhone resell system DB.exe
+C:\Users\Kar0229\Downloads\iPhone resell system DB\iPhone resell system DB\iPhone resell system DB\bin\Debug\iPhone resell system DB.pdb
+C:\Users\Kar0229\Downloads\iPhone resell system DB\iPhone resell system DB\iPhone resell system DB\obj\Debug\iPhone_resell_system_DB.Add.resources
+C:\Users\Kar0229\Downloads\iPhone resell system DB\iPhone resell system DB\iPhone resell system DB\obj\Debug\iPhone_resell_system_DB.Aktualizace.resources
+C:\Users\Kar0229\Downloads\iPhone resell system DB\iPhone resell system DB\iPhone resell system DB\obj\Debug\iPhone_resell_system_DB.Form1.resources
+C:\Users\Kar0229\Downloads\iPhone resell system DB\iPhone resell system DB\iPhone resell system DB\obj\Debug\iPhone_resell_system_DB.IP_detail.resources
+C:\Users\Kar0229\Downloads\iPhone resell system DB\iPhone resell system DB\iPhone resell system DB\obj\Debug\iPhone_resell_system_DB.Forms.ListItem.resources
+C:\Users\Kar0229\Downloads\iPhone resell system DB\iPhone resell system DB\iPhone resell system DB\obj\Debug\iPhone_resell_system_DB.Properties.Resources.resources
+C:\Users\Kar0229\Downloads\iPhone resell system DB\iPhone resell system DB\iPhone resell system DB\obj\Debug\iPhone_resell_system_DB.Tabs.resources
+C:\Users\Kar0229\Downloads\iPhone resell system DB\iPhone resell system DB\iPhone resell system DB\obj\Debug\iPhone resell system DB.csproj.GenerateResource.cache
+C:\Users\Kar0229\Downloads\iPhone resell system DB\iPhone resell system DB\iPhone resell system DB\obj\Debug\iPhone resell system DB.csproj.CoreCompileInputs.cache
+C:\Users\Kar0229\Downloads\iPhone resell system DB\iPhone resell system DB\iPhone resell system DB\obj\Debug\iPhone resell system DB.exe
+C:\Users\Kar0229\Downloads\iPhone resell system DB\iPhone resell system DB\iPhone resell system DB\obj\Debug\iPhone resell system DB.pdb
